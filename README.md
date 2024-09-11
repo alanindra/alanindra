@@ -12,8 +12,10 @@ My professional interest:
 - Computational linguistics
 
 I am looking forward to learn:
-- Data science
 - Data mining
+- Data science
+- Machine learning
+- Natural language processing
 <!---
 alanindra/alanindra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
