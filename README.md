@@ -1,12 +1,17 @@
 Welcome to my GitHub repository!
 
-I am Qaulan Indra (he/him), please call me Alan! I studied linguistics and I am Currently a Media Intelligence at GoTo Group.
+I am Qaulan Indra (he/him), please call me Alan! I studied linguistics at Universitas Indonesia and I am Currently a Media Intelligence at GoTo Group.
 
-My interest:
+Linguistics specialization:
+- Corpus linguistics
+- Generative syntax
+- Formal semantics
+
+My professional interest:
 - Data analytics
 - Computational linguistics
 
-I am looking to learn:
+I am looking forward to learn:
 - Data science
 - Data mining
 <!---
