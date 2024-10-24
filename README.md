@@ -8,8 +8,6 @@ More about me can be seen below
 
 Linguistics specialization:
 - Corpus linguistics
-- Generative syntax
-- Formal semantics
 
 My professional interest:
 - Data analytics
