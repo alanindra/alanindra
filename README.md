@@ -1,6 +1,6 @@
 Welcome to my GitHub repository!
 
-I am Qaulan Indra (Alan). I studied linguistics at Universitas Indonesia and I am currently a Media Intelligence analyst at GoTo Group.
+I am Qaulan Indra (Alan). I studied linguistics at Universitas Indonesia and currently at GoTo's Media Intelligence.
 
 Linguistics specialization:
 - Corpus linguistics
