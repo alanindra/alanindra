@@ -6,6 +6,9 @@ Also check my data analysis work on my Public Tableau profile and my data journa
 
 More about me can be seen below
 
+Undergraduate linguistics thesis:
+- Analytical approach to critical discourse analysis: A sentiment and corpus-based analysis of the Russian contemporary news in the Russian National Corpus
+
 Linguistics specialization:
 - Corpus linguistics
 - Computational linguistics (text analytics)
