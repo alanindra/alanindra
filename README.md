@@ -1,6 +1,6 @@
 Welcome to my GitHub repository!
 
-I am Qaulan Indra (Alan). I studied linguistics at Universitas Indonesia and currently at GoTo's Media Intelligence.
+I am Qaulan Indra (Alan). I studied linguistics at Universitas Indonesia and currently at GoTo Media Intelligence.
 
 Also check my data analysis work on my Public Tableau profile and my data journalistic articles on suaramahasiswa.com (listed on my LinkedIn publication tab)!
 
@@ -8,10 +8,11 @@ More about me can be seen below
 
 Linguistics specialization:
 - Corpus linguistics
+- Computational linguistics (text analytics)
+- Inferential statistics
 
 My professional interest:
 - Data analytics
-- Computational linguistics
 
 I am looking forward to learn:
 - Machine learning
