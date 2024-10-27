@@ -13,6 +13,7 @@ Linguistics specialization:
 
 My professional interest:
 - Data analytics (in particular exploratory data analysis)
+- Media intelligence/analytics
 
 I am looking forward to learn:
 - Machine learning
