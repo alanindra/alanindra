@@ -12,7 +12,7 @@ Linguistics specialization:
 - Inferential statistics
 
 My professional interest:
-- Data analytics
+- Data analytics (in particular exploratory data analysis)
 
 I am looking forward to learn:
 - Machine learning
