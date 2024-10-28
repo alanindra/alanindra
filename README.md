@@ -1,4 +1,4 @@
-Welcome to my GitHub repository! I am Qaulan Indra (Alan).
+Welcome to my GitHub repository! I am Qaulan M. Indra (Alan).
 
 Check my other data analysis work on my Public Tableau profile or my data journalistic articles on my linktr.ee profile!
 
