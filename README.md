@@ -1,6 +1,4 @@
-Welcome to my GitHub repository!
-
-I am Qaulan Indra (Alan). I studied linguistics at Universitas Indonesia and currently at GoTo Media Intelligence.
+Welcome to my GitHub repository! I am Qaulan Indra (Alan).
 
 Check my other data analysis work on my Public Tableau profile or my data journalistic articles on my linktr.ee profile!
 
