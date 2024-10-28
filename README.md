@@ -19,6 +19,8 @@ My professional interest:
 Tools:
 R, SQL, Python, LaTeX, Tableau, Excel
 
+Reach me through qaulanmrf@gmail.com
+
 <!---
 alanindra/alanindra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
