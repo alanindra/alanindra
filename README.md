@@ -18,11 +18,6 @@ My professional interest:
 - Data analytics (in particular exploratory data analysis)
 - Media intelligence/analytics
 
-I am looking forward to learn:
-- Machine learning
-- Data mining
-- Natural language processing
-- Data science
 <!---
 alanindra/alanindra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
