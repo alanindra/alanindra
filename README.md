@@ -1,7 +1,7 @@
 ### Hello, I am Qaulan M. Indra (Alan). Welcome to my GitHub repository!
 
 ### About me:
-I graduated from Universitas Indonesia, specializing in corpus/computational linguistics. I wrote my thesis on collocational analysis on selected lexical items in the news corpus of the Russian National Corpus. Currently working on data analytics, data mining, and NLP for corporate communications solutions at GoTo Group's Media Intelligence. Passionate about dissecting languages through quantitative or computational methods.
+I graduated from Universitas Indonesia, specializing in corpus/computational linguistics. I wrote my thesis on collocational analysis on selected lexical items in the news corpus of the Russian National Corpus. Currently working on data analytics, data mining, and NLP for corporate communications solutions at GoTo Group's Media Intelligence. Passionate about data and dissecting languages through quantitative or computational methods. Let's connect!
 
 ### Field of interests:
 - Data analytics
@@ -41,8 +41,6 @@ I graduated from Universitas Indonesia, specializing in corpus/computational lin
 
 ### Languages:
 🇮🇩🇬🇧🇳🇱🇷🇺
-
-Let's connect!
 
 <!---
 alanindra/alanindra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
