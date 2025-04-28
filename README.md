@@ -1,6 +1,6 @@
 ### Hello, I am Qaulan M. Indra (Alan). Welcome to my GitHub repository!
 
-### About me
+### About me:
 I graduated from Universitas Indonesia, specializing in corpus/computational linguistics. I wrote my thesis on collocational analysis on selected lexical items in the news corpus of the Russian National Corpus. Currently working on data analytics, data mining, and NLP for corporate communications solutions at GoTo Group's Media Intelligence. 
 
 ### Field of interests:
