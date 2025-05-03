@@ -1,5 +1,19 @@
 ### Hello, I am Qaulan M. Indra (Alan). Welcome to my GitHub repository!
 
+<p>
+  <a href="https://www.linkedin.com/in/qaulan/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:qaulanmrf@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+    <a href="https://linktr.ee/alanindra" target="_blank">
+    <img alt="Linktree" src="https://img.shields.io/badge/-Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" />
+  </a>
+  <a href="https://public.tableau.com/app/profile/qaulan/vizzes" target="_blank">
+    <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+</p>
+
 ### About me:
 I graduated from Universitas Indonesia, specializing in corpus/computational linguistics. I wrote my thesis on collocational analysis on selected lexical items in the news corpus of the Russian National Corpus. Currently working on data analytics, data mining, and NLP for corporate communications solutions at GoTo Group's Media Intelligence. Passionate about data and dissecting languages through quantitative or computational methods. Let's connect!
 
@@ -18,25 +32,6 @@ I graduated from Universitas Indonesia, specializing in corpus/computational lin
   <img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" />
   <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
   <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-</p>
-
-### Social networks:
-<p>
-  <a href="https://www.linkedin.com/in/qaulan/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:qaulanmrf@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-### Explore my works:
-<p>
-  <a href="https://linktr.ee/alanindra" target="_blank">
-    <img alt="Linktree" src="https://img.shields.io/badge/-Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" />
-  </a>
-  <a href="https://public.tableau.com/app/profile/qaulan/vizzes" target="_blank">
-    <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
 </p>
 
 ### Languages:
