@@ -18,11 +18,7 @@
 I graduated from Universitas Indonesia, specializing in corpus/computational linguistics. I wrote my thesis on collocational analysis on selected lexical items in the news corpus of the Russian National Corpus. Currently working on data analytics, data mining, and NLP for corporate communications solutions at GoTo Group's Media Intelligence. Passionate about data and dissecting languages through quantitative or computational methods. Let's connect!
 
 ### Field of interests:
-- Data analytics
-- Computational linguistics
-- Data mining
-- Natural language processing (NLP)
-- Machine learning
+Data analytics, computational linguistics, data mining, natural language processing (NLP), machine learning (ML)
 
 ### Data analytics tools:
 <p>
